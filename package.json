@@ -1,0 +1,19 @@
+{
+  "name": "haozhangepic-npm-test001",
+  "version": "1.0.0",
+  "description": "个人测试发布npm包",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "haozhangepic-npm-test001": "^1.0.0"
+  },
+  "devDependencies": {
+    "rollup": "^3.26.3"
+  }
+}
