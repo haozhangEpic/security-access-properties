@@ -1,6 +1,6 @@
 {
   "name": "security-access-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "安全访问对象中的属性",
   "main": "dist/index.js",
   "type": "module",
@@ -10,8 +10,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "rollup": "^3.26.3"
   }
