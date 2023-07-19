@@ -2,7 +2,7 @@
   "name": "haozhangepic-npm-test001",
   "version": "1.0.0",
   "description": "个人测试发布npm包",
-  "main": "index.js",
+  "main": "dist/index.js",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
